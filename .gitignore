@@ -1,0 +1,26 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Ignore override files
+override.tf
+override.tf.json
+*.override.tf
+*.override.tf.json
+
+# Terraform lock files
+*.terraform.lock.hcl
+
+# Temp files
+*.temp
+
+# Keys
+bootcamp
+*.pem
+*.ppk
